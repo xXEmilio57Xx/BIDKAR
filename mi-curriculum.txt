@@ -3,3 +3,4 @@ Mi-Historia-Academica
 preescolar: Jardin de Niños El Inge
 Pimaria: Baja California.
 Secundaria: General Angel Flores.Bachillerato: Universidad Autonoma de Sinaloa
+Universidad: UAdeO
