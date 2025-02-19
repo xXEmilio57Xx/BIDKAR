@@ -1,6 +1,10 @@
 Mi-Historia-Academica
 
+
 preescolar: Jardin de Niños El Inge
 Pimaria: Baja California.
 Secundaria: General Angel Flores.Bachillerato: Universidad Autonoma de Sinaloa
 Universidad: UAdeO
+aprendiendo a hacer cosas con git
+Tambien se pueden registrar cambios en los archivos
+
